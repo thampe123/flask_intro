@@ -1,3 +1,4 @@
+#dit komt overeen met de controler 
 # app/routes.py
 
 from flask import Blueprint, request, redirect, url_for, render_template, session
